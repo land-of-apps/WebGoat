@@ -1,0 +1,29 @@
+name: WebGoat
+packages:
+- path: org.owasp.webgoat.auth-bypass
+- path: org.owasp.webgoat.bypass-restrictions
+- path: org.owasp.webgoat.challenge
+- path: org.owasp.webgoat.chrome-dev-tools
+- path: org.owasp.webgoat.cia
+- path: org.owasp.webgoat.client-side-filtering
+- path: org.owasp.webgoat.cross-side-scripting
+- path: org.owasp.webgoat.crypto
+- path: org.owasp.webgoat.csrf
+- path: org.owasp.webgoat.html-tampering
+- path: org.owasp.webgoat.http-basics
+- path: org.owasp.webgoat.http-proxies
+- path: org.owasp.webgoat.idor
+- path: org.owasp.webgoat.insecure-deserialization
+- path: org.owasp.webgoat.insecure-login
+- path: org.owasp.webgoat.jwt
+- path: org.owasp.webgoat.missing-function-ac
+- path: org.owasp.webgoat.password-reset
+- path: org.owasp.webgoat.path-traversal
+- path: org.owasp.webgoat.secure-passwords
+- path: org.owasp.webgoat.sql-injections
+- path: org.owasp.webgoat.ssrf
+- path: org.owasp.webgoat.vulnerable-components
+- path: org.owasp.webgoat.webgoat-introduction
+- path: org.owasp.webgoat.webgoat-lesson-template
+- path: org.owasp.webgoat.webwolf-introduction
+- path: org.owasp.webgoat.xxe
